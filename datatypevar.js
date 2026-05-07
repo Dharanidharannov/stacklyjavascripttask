@@ -125,6 +125,6 @@ console.log(users.name)
 
 // 39) true (true&&false -> false(because AND operator in this operators if there is one false means also false) then it will check second condition first condition (false || true -> its true its OR operator its behave there is one true means also true so final answer is true))
 
-// Section 9: Ternary 
+// Section 9: Ternary Operator
 
 // 40: yes (condition ? TV : FV condition is 5 greater than 3 so it will true value so answer is yes)
